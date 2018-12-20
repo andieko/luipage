@@ -1,0 +1,9 @@
+#bg {
+  background-image:url("../../assets/img/logo_luipage.png");
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:300px 300px;
+  background-color:rgb(215,215,215);
+}
+
